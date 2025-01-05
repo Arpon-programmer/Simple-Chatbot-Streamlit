@@ -10,7 +10,7 @@
     },
     {
       "question": "How are you?",
-      "answer": "I’m doing great, thanks for asking! How about you?"
+      "answer": "I\u2019m doing great, thanks for asking! How about you?"
     },
     {
       "question": "Who are you?",
@@ -34,11 +34,11 @@
     },
     {
       "question": "hi there",
-      "answer": "Hi! What’s on your mind today?"
+      "answer": "Hi! What\u2019s on your mind today?"
     },
     {
       "question": "Do you know who I am?",
-      "answer": "You are my BOSS and the one I’m here to help!"
+      "answer": "You are my BOSS and the one I\u2019m here to help!"
     },
     {
       "question": "Who created you?",
@@ -86,7 +86,7 @@
     },
     {
       "question": "Who is Jeff Bezos?",
-      "answer": "Jeff Bezos is the founder and former CEO of Amazon, one of the world’s largest e-commerce platforms. He is also the founder of Blue Origin, a space exploration company."
+      "answer": "Jeff Bezos is the founder and former CEO of Amazon, one of the world\u2019s largest e-commerce platforms. He is also the founder of Blue Origin, a space exploration company."
     },
     {
       "question": "Who is Bill Gates?",
@@ -102,11 +102,11 @@
     },
     {
       "question": "Who is Sundar Pichai?",
-      "answer": "Sundar Pichai is the CEO of Google and Alphabet, leading the development of the company’s various technologies and services."
+      "answer": "Sundar Pichai is the CEO of Google and Alphabet, leading the development of the company\u2019s various technologies and services."
     },
     {
       "question": "What is Facebook?",
-      "answer": "Facebook, now known as Meta, is a social media platform founded by Mark Zuckerberg. It’s one of the most widely used social networking services in the world."
+      "answer": "Facebook, now known as Meta, is a social media platform founded by Mark Zuckerberg. It\u2019s one of the most widely used social networking services in the world."
     },
     {
       "question": "Who is Mark Zuckerberg?",
@@ -222,7 +222,7 @@
     },
     {
       "question": "What is the Internet of Things (IoT)?",
-      "answer": "The Internet of Things (IoT) refers to the network of physical objects—devices, vehicles, buildings—that are embedded with sensors, software, and other technologies to connect and exchange data over the internet."
+      "answer": "The Internet of Things (IoT) refers to the network of physical objects\u2014devices, vehicles, buildings\u2014that are embedded with sensors, software, and other technologies to connect and exchange data over the internet."
     },
     {
       "question": "What is big data?",
@@ -230,7 +230,7 @@
     },
     {
       "question": "What is cloud computing?",
-      "answer": "Cloud computing refers to the delivery of computing services—like servers, storage, databases, networking, software—over the internet, allowing for flexible, scalable, and cost-effective IT solutions."
+      "answer": "Cloud computing refers to the delivery of computing services\u2014like servers, storage, databases, networking, software\u2014over the internet, allowing for flexible, scalable, and cost-effective IT solutions."
     },
     {
       "question": "What is edge computing?",
@@ -330,7 +330,7 @@
     },
     {
       "question": "What is the speed of sound?",
-      "answer": "The speed of sound is approximately 343 meters per second (1,235 kilometers/hour or 767 miles/hour) in dry air at 20°C (68°F)."
+      "answer": "The speed of sound is approximately 343 meters per second (1,235 kilometers/hour or 767 miles/hour) in dry air at 20\u00b0C (68\u00b0F)."
     },
     {
       "question": "What is Moore's Law?",
@@ -338,7 +338,7 @@
     },
     {
       "question": "Who is Warren Buffett?",
-      "answer": "Warren Buffett is one of the world’s most successful investors and the chairman and CEO of Berkshire Hathaway. He is known for his value investing strategy."
+      "answer": "Warren Buffett is one of the world\u2019s most successful investors and the chairman and CEO of Berkshire Hathaway. He is known for his value investing strategy."
     },
     {
       "question": "What is a startup?",
@@ -378,7 +378,7 @@
     },
     {
       "question": "What is the Paris Agreement?",
-      "answer": "The Paris Agreement is a global treaty adopted in 2015 by nearly all nations to address climate change by limiting global warming to below 2°C compared to pre-industrial levels."
+      "answer": "The Paris Agreement is a global treaty adopted in 2015 by nearly all nations to address climate change by limiting global warming to below 2\u00b0C compared to pre-industrial levels."
     },
     {
       "question": "What is cybersecurity?",
@@ -662,7 +662,7 @@
     },
     {
       "question": "What is AMD?",
-      "answer": "AMD (Advanced Micro Devices) is an American semiconductor company that designs processors, graphics cards, and other computing technologies. AMD’s Ryzen CPUs and Radeon GPUs are popular among gamers and professionals alike."
+      "answer": "AMD (Advanced Micro Devices) is an American semiconductor company that designs processors, graphics cards, and other computing technologies. AMD\u2019s Ryzen CPUs and Radeon GPUs are popular among gamers and professionals alike."
     },
     {
       "question": "What is Nvidia?",
@@ -722,7 +722,7 @@
     },
     {
       "question": "What is Brazil?",
-      "answer": "Brazil is the largest country in South America, known for its diverse ecosystems, including the Amazon Rainforest. The capital is Brasília, and the largest city is São Paulo. Brazil is famous for its Carnival festival, football, and vibrant culture."
+      "answer": "Brazil is the largest country in South America, known for its diverse ecosystems, including the Amazon Rainforest. The capital is Bras\u00edlia, and the largest city is S\u00e3o Paulo. Brazil is famous for its Carnival festival, football, and vibrant culture."
     },
     {
       "question": "What is Russia?",
@@ -758,7 +758,7 @@
     },
     {
       "question": "What is Egypt?",
-      "answer": "Egypt is a country located in North Africa and the Middle East, famous for its ancient civilization, pyramids, and the Nile River. The capital is Cairo. Egypt has a rich cultural heritage and is considered one of the world’s oldest civilizations."
+      "answer": "Egypt is a country located in North Africa and the Middle East, famous for its ancient civilization, pyramids, and the Nile River. The capital is Cairo. Egypt has a rich cultural heritage and is considered one of the world\u2019s oldest civilizations."
     },
     {
       "question": "What is Mexico?",
@@ -853,12 +853,12 @@
       "answer": "Sydney is the largest city in Australia, known for its Opera House, Sydney Harbour Bridge, and beautiful beaches such as Bondi Beach. It is a major cultural and economic center in the region."
     },
     {
-      "question": "What is São Paulo?",
-      "answer": "São Paulo is the largest city in Brazil and the Southern Hemisphere. It is a major financial and cultural hub, known for its diverse population, vibrant nightlife, and landmarks like Ibirapuera Park and Paulista Avenue."
+      "question": "What is S\u00e3o Paulo?",
+      "answer": "S\u00e3o Paulo is the largest city in Brazil and the Southern Hemisphere. It is a major financial and cultural hub, known for its diverse population, vibrant nightlife, and landmarks like Ibirapuera Park and Paulista Avenue."
     },
     {
       "question": "What is Mexico City?",
-      "answer": "Mexico City is the capital of Mexico and one of the largest cities in the world. It is known for its historical sites such as the Zócalo, Templo Mayor, and Chapultepec Park, as well as its cultural scene and vibrant neighborhoods."
+      "answer": "Mexico City is the capital of Mexico and one of the largest cities in the world. It is known for its historical sites such as the Z\u00f3calo, Templo Mayor, and Chapultepec Park, as well as its cultural scene and vibrant neighborhoods."
     },
     {
       "question": "What is Seoul?",
@@ -870,7 +870,7 @@
     },
     {
       "question": "What is Buenos Aires?",
-      "answer": "Buenos Aires is the capital of Argentina, known for its European-style architecture, tango music, and vibrant arts scene. Major attractions include the Casa Rosada, Recoleta Cemetery, and Teatro Colón."
+      "answer": "Buenos Aires is the capital of Argentina, known for its European-style architecture, tango music, and vibrant arts scene. Major attractions include the Casa Rosada, Recoleta Cemetery, and Teatro Col\u00f3n."
     },
     {
       "question": "What is Istanbul?",
@@ -878,7 +878,7 @@
     },
     {
       "question": "What is Johannesburg?",
-      "answer": "Johannesburg is the largest city in South Africa and a major financial center. It is known for its role in South Africa’s history, especially in relation to apartheid, and for attractions such as the Apartheid Museum and Constitution Hill."
+      "answer": "Johannesburg is the largest city in South Africa and a major financial center. It is known for its role in South Africa\u2019s history, especially in relation to apartheid, and for attractions such as the Apartheid Museum and Constitution Hill."
     },
     {
       "question": "What is Bangkok?",
@@ -997,8 +997,8 @@
       "answer": "The SpaceX Starship is designed for long-duration missions to Mars, with the goal of colonizing the planet."
     },
     {
-      "question": "What is the mission of NASA’s SLS rocket?",
-      "answer": "NASA’s Space Launch System (SLS) is designed to carry astronauts to the Moon and Mars as part of the Artemis program."
+      "question": "What is the mission of NASA\u2019s SLS rocket?",
+      "answer": "NASA\u2019s Space Launch System (SLS) is designed to carry astronauts to the Moon and Mars as part of the Artemis program."
     },
     {
       "question": "What was the first rocket to reach space?",
@@ -1035,6 +1035,42 @@
     {
       "question": "What is a suborbital rocket?",
       "answer": "A suborbital rocket is one that reaches space but does not achieve the velocity needed to orbit the Earth, such as Blue Origin's New Shepard."
+    },
+    {
+      "question": "What is the purpose of the Falcon Heavy rocket?",
+      "answer": "SpaceX's Falcon Heavy rocket is designed to carry heavy payloads into orbit and has been used for missions like launching the Tesla Roadster into space."
+    },
+    {
+      "question": "What is the significance of the Space Launch System (SLS) rocket?",
+      "answer": "NASA's Space Launch System (SLS) is a super heavy-lift rocket designed for deep space exploration, including missions to the Moon and Mars."
+    },
+    {
+      "question": "What is the function of the Long March 5 rocket?",
+      "answer": "The Long March 5 rocket, developed by China, is used for launching heavy payloads into geostationary orbit and deep space missions."
+    },
+    {
+      "question": "Which rocket is used for launching crewed missions to the International Space Station?",
+      "answer": "The Soyuz rocket, developed by Russia, is used for launching crewed missions to the International Space Station."
+    },
+    {
+      "question": "What is the purpose of the Electron rocket?",
+      "answer": "Rocket Lab's Electron rocket is designed for launching small satellites into orbit, providing dedicated and cost-effective access to space."
+    },
+    {
+      "question": "What is the significance of the Starship rocket?",
+      "answer": "SpaceX's Starship is a fully reusable spacecraft designed for missions to Mars, the Moon, and beyond, with the goal of making life multiplanetary."
+    },
+    {
+      "question": "What is the function of the PSLV rocket?",
+      "answer": "The Polar Satellite Launch Vehicle (PSLV), developed by ISRO, is used for launching satellites into polar orbits and has a successful track record of missions."
+    },
+    {
+      "question": "Which rocket is known for launching the Mars rovers?",
+      "answer": "NASA's Atlas V rocket has been used to launch several Mars rovers, including Curiosity and Perseverance, to explore the Red Planet."
+    },
+    {
+      "question": "What is the purpose of the GSLV rocket?",
+      "answer": "The Geosynchronous Satellite Launch Vehicle (GSLV), developed by ISRO, is used for launching communication satellites into geostationary orbits."
     }
   ]
 }
